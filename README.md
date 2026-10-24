@@ -20,8 +20,7 @@
 
 <div align="center">
 
-**[NB-Panel](https://github.com/lima-droid/NB-Panel)** · NekoBox 网页面板<br>
-**[s-ui](https://github.com/lima-droid/s-ui)** · sing-box 网页 UI<br>
+**[NB-Panel](https://github.com/lima-droid/NB-Panel)** · NP 客户端<br>
 **[NP-Master](https://github.com/lima-droid/NP-Master)** · NatPunch 控制面板
 
 </div>
