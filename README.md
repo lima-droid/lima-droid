@@ -20,7 +20,6 @@
 
 <div align="center">
 
-**[NB-Panel](https://github.com/lima-droid/NB-Panel)** · NP 客户端<br>
-**[NP-Master](https://github.com/lima-droid/NP-Master)** · NatPunch 控制面板
+**[NB-Panel](https://github.com/lima-droid/NB-Panel)** · NP 客户端&nbsp;&nbsp;&nbsp;**[NP-Master](https://github.com/lima-droid/NP-Master)** · NatPunch 控制面板
 
 </div>
